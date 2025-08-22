@@ -1,6 +1,6 @@
-# 🚀 Welcome to Z.ai Code Scaffold
+# 🚀 Modern Web Application
 
-A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
+A modern, production-ready web application built with cutting-edge technologies, designed to provide a robust foundation for rapid development.
 
 ## ✨ Technology Stack
 
@@ -72,17 +72,17 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to see your application running.
 
-## 🤖 Powered by Z.ai
+## 🛠️ Development Features
 
-This scaffold is optimized for use with [Z.ai](https://chat.z.ai) - your AI assistant for:
+This application provides:
 
-- **💻 Code Generation** - Generate components, pages, and features instantly
-- **🎨 UI Development** - Create beautiful interfaces with AI assistance  
-- **🔧 Bug Fixing** - Identify and resolve issues with intelligent suggestions
-- **📝 Documentation** - Auto-generate comprehensive documentation
-- **🚀 Optimization** - Performance improvements and best practices
+- **💻 Modern Architecture** - Clean, scalable codebase with best practices
+- **🎨 Beautiful UI** - Complete component library with modern design
+- **🔧 Developer Experience** - Hot reload, TypeScript, and comprehensive tooling
+- **📝 Well Documented** - Clear code structure and documentation
+- **🚀 Performance Optimized** - Built for speed and efficiency
 
-Ready to build something amazing? Start chatting with Z.ai at [chat.z.ai](https://chat.z.ai) and experience the future of AI-powered development!
+Ready to build something amazing? This foundation provides everything you need to get started!
 
 ## 📁 Project Structure
 
@@ -129,13 +129,13 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Type Safety**: End-to-end TypeScript with Zod validation
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
-## 🤝 Get Started with Z.ai
+## 🤝 Getting Started
 
-1. **Clone this scaffold** to jumpstart your project
-2. **Visit [chat.z.ai](https://chat.z.ai)** to access your AI coding assistant
-3. **Start building** with intelligent code generation and assistance
+1. **Install dependencies** with `npm install`
+2. **Start development** with `npm run dev`
+3. **Build your features** using the provided components and utilities
 4. **Deploy with confidence** using the production-ready setup
 
 ---
 
-Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
+Built with ❤️ for the developer community 🚀
